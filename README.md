@@ -42,3 +42,19 @@ v20.13.1
 ## react version
 
 v19.0.0
+
+## Implemented Design Patterns
+
+Container and presentational components:
+We can find this in the following directories:
+
+-containers
+-components
+
+Controlled Inputs
+We can find this pattern under the next path in the project:
+src/app/components/Search/index.tsx
+
+Component composition with Hooks and custom hooks
+We can find a custom hook under the next path in the project:
+src/app/containers/customHooks/fetchProducts
